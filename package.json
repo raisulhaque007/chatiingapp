@@ -1,0 +1,23 @@
+{
+  "name": "chattingapp",
+  "version": "1.0.0",
+  "description": "Chat App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raisulhaque007/chatiingapp.git"
+  },
+  "author": "Raisul Haque",
+  "license": "ISC",
+  "dependencies":{
+    "socket.io":"*",
+    "express":"*"
+  },
+  "bugs": {
+    "url": "https://github.com/raisulhaque007/chatiingapp/issues"
+  },
+  "homepage": "https://github.com/raisulhaque007/chatiingapp#readme"
+}
